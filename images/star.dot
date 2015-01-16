@@ -1,0 +1,15 @@
+graph {
+    overlap=False;
+    splines=True;
+A -- Central
+B -- Central
+C -- Central
+D -- Central
+E -- Central
+F -- Central
+G -- Central
+H -- Central
+I -- Central
+J -- Central
+K -- Central
+}
