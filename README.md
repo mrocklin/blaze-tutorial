@@ -28,3 +28,9 @@ migration using the `into` project.
 2.  [Databases](05-Blaze-with-SQL.ipynb) - ([nbviewer](http://nbviewer.ipython.org/github/mrocklin/blaze-tutorial/blob/master/05-Blaze-with-SQL.ipynb))
 3.  [Storing Results](06-Blaze-with-into.ipynb) - ([nbviewer](http://nbviewer.ipython.org/github/mrocklin/blaze-tutorial/blob/master/06-Blaze-with-into.ipynb))
 
+
+Downloads
+---------
+
+This tutorial depends on the
+[Lahman Baseball statistics database](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2013.sqlite)
