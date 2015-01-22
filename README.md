@@ -10,6 +10,8 @@ This is a work in progress.
 Outline
 -------
 
+0.  [Motivation](00-Motivation.ipynb) - ([nbviewer](http://nbviewer.ipython.org/github/mrocklin/blaze-tutorial/blob/master/00-Motivation.ipynb))
+
 ### Into
 
 We present most Blaze fundamentals while discussing the simpler topic of data
